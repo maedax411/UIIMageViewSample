@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  UIPartsSample
-//
-//  Created by 前田 晃良 on 2017/07/24.
-//  Copyright © 2017年 d_na_ser. All rights reserved.
-//
 
 import UIKit
 
